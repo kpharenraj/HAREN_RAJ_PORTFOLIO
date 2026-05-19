@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>K P Haren Raj | Portfolio</title>
+    <title>K P Haren Raj | Contact</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,48 +15,44 @@
         <div class="navdiv">
             <div class="logo"><a href="home.html">Menu</a></div>
             <ul class="menu-box">
-                <li><a href="home.html" class="active">Home</a></li>
+                <li><a href="home.html">Home</a></li>
                 <li><a href="education.html">Education</a></li>
                 <li><a href="skills.html">Skills</a></li>
                 <li><a href="project.html">Projects</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
                 <button><a href="#">Login</a></button>
                 <button><a href="#">LogOut</a></button>
             </ul>
         </div>
     </nav>
     <main>
-        <section id="about">
-            <h2>Who Am I?</h2>
-            <p>Hi, I'm K P Haren Raj, a passionate and curious developer with focus on building impactful Android applications and Web solutions. I enjoy transforming ideas into user-friendly digital products that solve real-word problems. My journeys started with a strong interest in coding and has grown into a continuous learning experience.</p>
-            <p>I have experience with JAVA, SQL, and Android development, and I'm currently expanding my skills in full-stack and cross-platform development. I love taking on new challenges, collaborating with others, and bringing creativity into every project I work on.</p>
-            <p>Feel free to explore my projects and get in touch- I'm always open to exciting opportunities and collaboration.</p>
-        </section>
-        <section id="about">
+        <section id="esp">
             <div class="section-content">
-                <h2>About Me</h2>
-                <p>I'm a passionate developer who loves creating beautiful and functional web experiences. I enjoy
-                    turning complex problems into simple, elegant solutions. Below is my resume, showcasing my
-                    skills and experience.</p>
-                <a href="presume.pdf" class="btn" download>Download Resume</a>
-            </div>
-        </section>
-        <section id="connect">
-            <div class="section-content">
-                <h2>Let's Connect</h2>
-                <p>Want to collaborate or learn more? Reach out by email or connect on social media.</p>
+                <h2>Contact Me</h2>
+                <p>I'd love to hear from you! Use the form below or reach out directly through email or social media.</p>
                 <div class="contact-card">
                     <p><strong>Email:</strong> <a href="mailto:koyalkarpulkalharenraj@gmail.com">koyalkarpulkalharenraj@gmail.com</a></p>
-                    <p><strong>Phone:</strong> +91 12345 67890</p>
-                    <p><strong>Location:</strong> Tamil Nadu, India</p>
+                    <!-- <p><strong>Phone:</strong> +91 8897394501</p> -->
+                    <p><strong>Location:</strong> Telangana, India</p>
                 </div>
+                <form class="contact-form" action="mailto:koyalkarpulkalharenraj@gmail.com" method="post" enctype="text/plain">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="Your Email" required>
+
+                    <label for="message">Message</label>
+                    <textarea id="message" name="message" rows="6" placeholder="Your message..." required></textarea>
+
+                    <button type="submit" class="btn">Send Message</button>
+                </form>
                 <div class="social-links">
                     <a href="https://github.com/kpharenraj" target="_blank" rel="noreferrer">GitHub</a>
                     <a href="https://www.linkedin.com/in/k-p-haren-raj" target="_blank" rel="noreferrer">LinkedIn</a>
-                    <a href="https://www.instagram.com/kp_harenraj?utm_source=qr&igsh=am4wY3RuMGkxNGpz" target="_blank" rel="noreferrer">Instagram</a>
+                    <a href="https://www.instagram.com/kp_harenraj?utm_source=qr&igsh=am4wY3RuMGkxNGpz  " target="_blank" rel="noreferrer">Instagram</a>
                     <a href="https://x.com/KPHarenRaj" target="_blank" rel="noreferrer">X</a>
                 </div>
-                <a href="contact.html" class="btn">Contact Me</a>
             </div>
         </section>
     </main>
