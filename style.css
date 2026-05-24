@@ -1,4 +1,8 @@
 /* General Body Styles */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -38,7 +42,9 @@ header p {
     justify-content: space-between;
     align-items: center;
     max-width: 1200px;
+    width: 100%;
     margin: 0 auto;
+    gap: 1rem;
 }
 .logo a {
     color: #fff;
@@ -52,20 +58,29 @@ header p {
     padding: 0;
     display: flex;
     align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
 }
 .menu-box li {
-    margin-left: 20px;
+    margin: 0;
 }
-.menu-box a {
+.menu-box a,
+.menu-box button {
     color: #fff;
-    text-decoration: none;
     font-size: 1rem;
-    padding: 5px 10px;
+    padding: 10px 12px;
     border-radius: 5px;
     transition: background-color 0.3s;
 }
-.menu-box a:hover, .menu-box a.active {
+.menu-box a:hover,
+.menu-box a.active,
+.menu-box button:hover {
     background-color: #555;
+}
+.menu-box button {
+    background-color: #5cb85c;
+    border: none;
+    color: #fff;
 }
 
 /* Button Styles */
@@ -128,6 +143,12 @@ button a {
 .contact-form textarea {
     resize: vertical;
     min-height: 140px;
+}
+
+.form-note {
+    margin: 0 0 1rem 0;
+    color: #5a5a5a;
+    font-size: 0.95rem;
 }
 
 .contact-form button {
@@ -280,18 +301,68 @@ footer a:hover {
 }
 
 @media (max-width: 768px) {
+    header {
+        padding: 1.25rem 1rem;
+    }
+    header h1 {
+        font-size: 2rem;
+    }
+    header p {
+        font-size: 1rem;
+    }
+    .navigation-bar {
+        padding: 0.75rem 1rem;
+    }
     .navdiv {
         flex-direction: column;
+        align-items: stretch;
         gap: 10px;
     }
     .menu-box {
-        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: stretch;
         justify-content: center;
+        gap: 0.75rem;
     }
+    .menu-box li {
+        width: 100%;
+    }
+    .menu-box a,
+    .menu-box button {
+        width: 100%;
+        text-align: center;
+        padding: 12px 14px;
+    }
+    button {
+        width: 100%;
+        margin-left: 0;
+    }
+    main {
+        padding: 1rem;
+    }
+    .section-content,
+    .contact-card,
     .card,
-    .skill-card,
-    .contact-card {
+    .skill-card {
         width: 100%;
         max-width: 100%;
+        padding: 1rem;
+    }
+    .grid {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .social-links,
+    .footer-social {
+        gap: 10px;
+    }
+    .social-links a,
+    .footer-social a {
+        min-width: auto;
+        width: 100%;
+    }
+    .btn {
+        display: block;
+        width: 100%;
     }
 }
