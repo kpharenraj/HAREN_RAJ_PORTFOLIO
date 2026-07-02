@@ -10,17 +10,17 @@
 
 ## 📊 GitHub Stats & Language Usage  
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenRaj-Dev&show_icons=true&theme=tokyonight)  
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarenRaj-Dev&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🔗 Portfolio Links  
 
-- 🌐 [My Portfolio Website](https://harenraj-dev.github.io/HAREN_RAJ_PORTFOLIO/home.html)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/haren-raj-koyalkar-pulkal-247773373/overlay/about-this-profile/)  
-- 🐙 [GitHub](https://github.com/HarenRaj-Dev)  
+- 🌐 [My Portfolio Website](https://kpharenraj.github.io/HAREN_RAJ_PORTFOLIO/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/k-p-haren-raj)  
+- 🐙 [GitHub](https://github.com/kpharenraj)  
 
 ---
 
