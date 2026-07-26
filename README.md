@@ -80,12 +80,30 @@ HAREN_RAJ_PORTFOLIO/
 4. For online deployment, publish the project through GitHub Pages.
 
 ## 6. Screenshots
+
+### 🏡 Home Page
 <div align="center">
-    <img src="screenshots/home_page.png" alt="Home Page Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa;" />
-    <img src="screenshots/education_page.png" alt="Education Page Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
-    <img src="screenshots/skills_page.png" alt="Skills Page Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
-    <img src="screenshots/projects_page.png" alt="Projects Page Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
-    <img src="screenshots/contact_page.png" alt="Contact Page Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+    <img src="screenshots/home_page.png" alt="Home Page Preview" width="90%" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa;" />
+</div>
+
+### 🎓 Education Page
+<div align="center">
+    <img src="screenshots/education_page.png" alt="Education Page Preview" width="90%" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+</div>
+
+### 💻 Skills Page
+<div align="center">
+    <img src="screenshots/skills_page.png" alt="Skills Page Preview" width="90%" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+</div>
+
+### 🚀 Projects Page
+<div align="center">
+    <img src="screenshots/projects_page.png" alt="Projects Page Preview" width="90%" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+</div>
+
+### 📞 Contact Page
+<div align="center">
+    <img src="screenshots/contact_page.png" alt="Contact Page Preview" width="90%" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
 </div>
 
 ## 7. Live Demo Link
