@@ -11,9 +11,11 @@
 ## About Me
 Hello! I’m Haren Raj, a passionate developer focused on building clean, functional, and visually appealing web experiences. This portfolio reflects my academic background, growing technical skills, and selected projects in a structured and professional way.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpharenraj&show_icons=true&theme=tokyonight)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kpharenraj&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kpharenraj&theme=tokyonight" alt="Top Languages" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kpharenraj&layout=compact&theme=tokyonight)
 
 ## 1. Project Overview
 This repository contains a personal portfolio website created to present my identity as a developer in a modern and accessible way. It serves as a digital resume and project gallery, making it easy for visitors to explore my background and interests at a glance.
