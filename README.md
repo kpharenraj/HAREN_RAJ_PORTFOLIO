@@ -81,9 +81,11 @@ HAREN_RAJ_PORTFOLIO/
 
 ## 6. Screenshots
 <div align="center">
-  <img src="" alt="Homepage Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa;" />
-  <img src="" alt="Projects Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
-  <img src="" alt="Contact Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+    <img src="screenshots/kpharenraj.github.io_HAREN_RAJ_PORTFOLIO_.png" alt="Homepage Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa;" />
+    <img src="screenshots/kpharenraj.github.io_HAREN_RAJ_PORTFOLIO_education.html.png" alt="Projects Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+    <img src="screenshots/kpharenraj.github.io_HAREN_RAJ_PORTFOLIO_skills.html.png" alt="Projects Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+    <img src="screenshots/kpharenraj.github.io_HAREN_RAJ_PORTFOLIO_projects.html.png" alt="Projects Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
+    <img src="screenshots/kpharenraj.github.io_HAREN_RAJ_PORTFOLIO_contact.html.png" alt="Contact Preview" width="100%" height="220" style="border:1px solid #d0d7de; border-radius:8px; background:#f6f8fa; margin-top:12px;" />
 </div>
 
 ## 7. Live Demo Link
